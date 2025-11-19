@@ -1,2 +1,5 @@
 # sushrutaproject.github.io
-New home for the Suśruta Project 1.0 website
+
+For the beginnings of transferring [http://sushrutaproject.org](http://sushrutaproject.org) materials to Github, see:  
+
+* [https://sushrutaproject2.github.io/website/sushrutaproject1/](https://sushrutaproject2.github.io/website/sushrutaproject1/)
