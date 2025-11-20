@@ -1,3 +1,9 @@
+---
+layout: page
+title: Project Overview
+permalink: /project_overview/
+---
+
 The _Compendium of Sushruta_ (Sanskrit: सुश्रुतसंहिता or Suśrutasaṃhitā) is a world-classic of ancient medicine, 
 comparable in age and importance to the Greek Hippocratic Corpus and the Chinese _Huangdi Neijing_. It is a long and substantial treatise written in the Sanskrit language. 
 It presents a systematic, scholarly form of medicine for diagnosing and treating the many ailments that patients presented in South Asia two thousand years ago.  As one of the founding treatises of Ayurveda, the indigenous medical system of India, 
