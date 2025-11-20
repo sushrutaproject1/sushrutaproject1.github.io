@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Participants
+siteNav: true
 nav: true
 nav_order: 2
 dropdown: true
@@ -16,3 +17,4 @@ children:
   - title: 'Research Assistants'
     permalink: /ras/
 ---
+

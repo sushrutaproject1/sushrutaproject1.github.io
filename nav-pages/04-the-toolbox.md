@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Toolbox
+siteNav: true
 nav: true
 dropdown: true
 children:
@@ -15,3 +16,4 @@ children:
   - title: 'Plant databases'
     permalink: /plant-databases/
 ---
+

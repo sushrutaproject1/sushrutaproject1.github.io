@@ -3,6 +3,8 @@ title: 'Project Outputs'
 author: 'Dominik Wujastyk'
 layout: page
 permalink: /project-outputs/
+nav: true
+siteNav: true
 ---
 
 ## Draft Critical edition

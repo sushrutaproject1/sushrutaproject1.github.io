@@ -1,0 +1,17 @@
+{% comment %} Create a navigation pane {% endcomment %}
+    {%- if page_paths -%}
+      <nav>
+        <ul>
+          {%- for path in page_paths -%}
+            {%- assign my_page = site.pages | where: "path", path | first -%}
+            {%- if my_page.title -%}
+              {%- if my_page.siteNav -%}
+                <li><a class="page-link" href="{{ my_page.url | relative_url }}">{{- my_page.title | escape -}}</a></li>
+              {%- endif -%}
+            {%- endif -%}
+          {%- endfor -%}
+            </ul>
+      </nav>
+    {%- endif -%}
+  </div>
+</header>

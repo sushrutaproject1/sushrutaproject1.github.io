@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Laboratory
+siteNav: true
 nav: true
 dropdown: true
 children:

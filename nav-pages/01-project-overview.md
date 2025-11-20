@@ -2,6 +2,8 @@
 layout: page
 title: Project Overview
 permalink: /project_overview/
+nav: true
+siteNav: true
 ---
 
 The _Compendium of Sushruta_ (Sanskrit: सुश्रुतसंहिता or Suśrutasaṃhitā) is a world-classic of ancient medicine, 

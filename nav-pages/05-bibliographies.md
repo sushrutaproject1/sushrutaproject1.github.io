@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bibliographies
+siteNav: true
 nav: true
 nav_order: 2
 dropdown: true
