@@ -1,4 +1,4 @@
-# The Suśruta Project
+# The Suśruta Project 1.0 (2020-2024)
 
 The Compendium of Suśruta (सुश्रुतसंहिता) is a treatise on classical Indian medicine written in Sanskrit about two thousand years ago. It is one of the foundations of Ayurveda, the traditional medicine of South Asia.
 
