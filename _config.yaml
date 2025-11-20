@@ -2,4 +2,7 @@ remote_theme: "jekyll/minima@1e8a445"
 minima:
   nav_pages:
     - project-overview.md
-    - pages/project-outputs.md
+    - project-outputs.md
+    - participants.md
+    - the-toolbox.md
+
