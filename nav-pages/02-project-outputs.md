@@ -7,13 +7,9 @@ nav: true
 nav-order: 2
 ---
 
-## Draft Critical edition
+{% include saktumiva-toc.md %}
 
-The evolving online New Critical Edition of the Nepalese version of the *Suśrutasaṃhitā*:
-
-- {% include saktumiva-toc.md %}
-
-*  [Table of Contents](https://saktumiva.org/wiki/wujastyk/susrutasamhita/start)    
+ZZZ
 
 ## Draft translation
 

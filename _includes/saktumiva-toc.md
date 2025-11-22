@@ -1,4 +1,4 @@
-# A Critical Edition of the Suśrutasaṃhitā Based on the Earliest Nepalese Manuscripts
+# A Critical Edition of the Suśrutasaṃhitā Based on the Earliest Nepalese Manuscripts XXX
 
 This is the online edition and manuscript transcriptions created as part of the [Suśruta Project](http://sushrutaproject.org).  Here, you may view the evolving critical editions of several parts of the *Suśrutasaṃhitā*.  You can also read the various manuscript transcriptions individually, or collate and compare them in the manner of a critical edition. 
 
