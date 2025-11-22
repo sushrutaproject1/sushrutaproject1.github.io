@@ -5,7 +5,7 @@ nav: true
 nav-order: 5
 ---
 
-  # Editions of the Suśrutasaṃhitā
+# Editions of the Suśrutasaṃhitā
 
 (A full bibliography to 2002 is available in Meulenbeld, [HIML IB, p.311-314](https://archive.org/stream/Meulenbeld-HIML/HIML_1B#page/311/mode/2up/search/narendra).)
 
