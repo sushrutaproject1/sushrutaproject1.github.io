@@ -7,9 +7,9 @@ nav: true
 nav-order: 2
 ---
 
+* Do not remove this line (it will not be displayed)
+{:toc}
 {% include saktumiva-toc.md %}
-
-ZZZ
 
 ## Draft translation
 
@@ -27,7 +27,7 @@ Evolving draft translation of selected adhyāyas (updated weekly):
 5.  [Kalpasthāna](https://wujastyk.github.io/sushrutaproject/xml/05-su.ka/kl_699_kalpasthana.xml) 
 6.  [Uttaratantra](https://wujastyk.github.io/sushrutaproject/xml/06-su.ut/kl_699_uttaratantra.xml) 
 
-# Journal and book publications
+## Journal and book publications
 
 
 * Wujastyk, Dominik, Jason Birch, Andrey Klebanov, Madhu Parameswaran, Madhusudan Rimal, Deepro Chakraborty, Harshal Bhatt, Vandana Lele, and Paras Mehta. 2023. *On the Plastic Surgery of the Ears and Nose: The Nepalese Version of the Suśrutasaṃhitā*. Heidelberg: Heidelberg Asian Studies Publishing. [https://doi.org/10.11588/hasp.1203](https://doi.org/10.11588/hasp.1203).

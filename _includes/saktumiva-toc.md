@@ -1,4 +1,6 @@
-# A Critical Edition of the Suśrutasaṃhitā Based on the Earliest Nepalese Manuscripts XXX
+## A Critical Edition of the Suśrutasaṃhitā Based on the Earliest Nepalese Manuscripts
+* Do not remove this line (it will not be displayed)
+{:toc}
 
 This is the online edition and manuscript transcriptions created as part of the [Suśruta Project](http://sushrutaproject.org).  Here, you may view the evolving critical editions of several parts of the *Suśrutasaṃhitā*.  You can also read the various manuscript transcriptions individually, or collate and compare them in the manner of a critical edition. 
 
@@ -8,7 +10,7 @@ The editions and manuscript transcriptions can be viewed at the links below.  Li
 
 The tables give links to adhyāyas that have received editorial attention (not always final).
 
-## Instructions
+### Instructions
 
 “New edition” means that the project has released an edition with full apparatus.  At the present time (2022-2025), the editions of most adhyāyas are provisional: work on proof-reading and edition is still ongoing on a daily basis.  These adhyāyas may be considered to be something like “critical collations” or a  provisional or first draft edition.  You will see the edition in the main window, and the variants from the manuscripts (K, N, H) and the printed edition (A) in the critical apparatus on the right. 
 
@@ -21,7 +23,7 @@ The tables give links to adhyāyas that have received editorial attention (not a
 
 The “[Instructions for Readers](https://saktumiva.org/wiki/users)” documentation explains how to read the above editions, how to select particular manuscripts for examination, and how to generate the critical apparatus.  The most common option is to press “other witnesses” in the left menu bar, then “select all”, then “generate apparatus.”  Click the अ character in the right-hand menu to select your preferred display script.
 
-## 1 Sūtrasthāna [adhyāyas 1-31](https://saktumiva.org/wiki/wujastyk/susrutasamhita/01-su.su-1-31/provisional-edition_sutrasthana-1-31), [32-46](https://saktumiva.org/wiki/wujastyk/susrutasamhita/01-su.su-32-end/provisional-edition_sutrasthana-32-end) 
+### 1 Sūtrasthāna [adhyāyas 1-31](https://saktumiva.org/wiki/wujastyk/susrutasamhita/01-su.su-1-31/provisional-edition_sutrasthana-1-31), [32-46](https://saktumiva.org/wiki/wujastyk/susrutasamhita/01-su.su-32-end/provisional-edition_sutrasthana-32-end) 
 
 Based on witnesses K, N, and H.  
 Witness K is not available after SS.1.32.
@@ -36,7 +38,7 @@ Witness K is not available after SS.1.32.
 
 
 
-## 2 [Nidānasthāna](https://saktumiva.org/wiki/wujastyk/susrutasamhita/02-su.ni/provisional-edition_nidanasthana) 
+### 2 [Nidānasthāna](https://saktumiva.org/wiki/wujastyk/susrutasamhita/02-su.ni/provisional-edition_nidanasthana) 
 
 Based on witnesses K, N, and H. 
 Witness K is not available for most of this adhyāya. 
@@ -46,9 +48,7 @@ Witness K is not available for most of this adhyāya.
 | [1](https://saktumiva.org/wiki/wujastyk/susrutasamhita/02-su.ni/provisional-edition_nidanasthana?&upama_scroll=SS.2.1.1) | [2](https://saktumiva.org/wiki/wujastyk/susrutasamhita/02-su.ni/provisional-edition_nidanasthana?&upama_scroll=SS.2.2.1) | [3](https://saktumiva.org/wiki/wujastyk/susrutasamhita/02-su.ni/provisional-edition_nidanasthana?&upama_scroll=SS.2.3.1) | [4](https://saktumiva.org/wiki/wujastyk/susrutasamhita/02-su.ni/provisional-edition_nidanasthana?&upama_scroll=SS.2.4.1) | [5](https://saktumiva.org/wiki/wujastyk/susrutasamhita/02-su.ni/provisional-edition_nidanasthana?&upama_scroll=SS.2.5.1) | [6](https://saktumiva.org/wiki/wujastyk/susrutasamhita/02-su.ni/provisional-edition_nidanasthana?&upama_scroll=SS.2.6.1) | [7](https://saktumiva.org/wiki/wujastyk/susrutasamhita/02-su.ni/provisional-edition_nidanasthana?&upama_scroll=SS.2.7.1) | [8](https://saktumiva.org/wiki/wujastyk/susrutasamhita/02-su.ni/provisional-edition_nidanasthana?&upama_scroll=SS.2.8.1) | [9](https://saktumiva.org/wiki/wujastyk/susrutasamhita/02-su.ni/provisional-edition_nidanasthana?&upama_scroll=SS.2.9.1) | [10](https://saktumiva.org/wiki/wujastyk/susrutasamhita/02-su.ni/provisional-edition_nidanasthana?&upama_scroll=SS.2.10.1) |
 | [11](https://saktumiva.org/wiki/wujastyk/susrutasamhita/02-su.ni/provisional-edition_nidanasthana?&upama_scroll=SS.2.11.1) | [12](https://saktumiva.org/wiki/wujastyk/susrutasamhita/02-su.ni/provisional-edition_nidanasthana?&upama_scroll=SS.2.12.1) | [13](https://saktumiva.org/wiki/wujastyk/susrutasamhita/02-su.ni/provisional-edition_nidanasthana?&upama_scroll=SS.2.13.1) | [14](https://saktumiva.org/wiki/wujastyk/susrutasamhita/02-su.ni/provisional-edition_nidanasthana?&upama_scroll=SS.2.14.1) | [15](https://saktumiva.org/wiki/wujastyk/susrutasamhita/02-su.ni/provisional-edition_nidanasthana?&upama_scroll=SS.2.15.1) | [16](https://saktumiva.org/wiki/wujastyk/susrutasamhita/02-su.ni/provisional-edition_nidanasthana?&upama_scroll=SS.2.16.1) |                                                              |                                                              |                                                              |                                                              |
 
-
-
-## 3 [Śārīrasthāna](https://saktumiva.org/wiki/wujastyk/susrutasamhita/03-su.sa/provisional-edition_sarirasthana) 
+### 3 [Śārīrasthāna](https://saktumiva.org/wiki/wujastyk/susrutasamhita/03-su.sa/provisional-edition_sarirasthana) 
 
 Based on witnesses N, and H.  
 Witness K is not available for this adhyāya.  
@@ -58,9 +58,7 @@ Witness N ends at 3.2.35 and is not available after that point.
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [1](https://saktumiva.org/wiki/wujastyk/susrutasamhita/03-su.sa/provisional-edition_sarirasthana?&upama_scroll=SS.3.1.1) | [❈2](https://saktumiva.org/wiki/wujastyk/susrutasamhita/03-su.sa/provisional-edition_sarirasthana?&upama_scroll=SS.3.2.1) | [❈3](https://saktumiva.org/wiki/wujastyk/susrutasamhita/03-su.sa/provisional-edition_sarirasthana?&upama_scroll=SS.3.3.1) | [4](https://saktumiva.org/wiki/wujastyk/susrutasamhita/03-su.sa/provisional-edition_sarirasthana?&upama_scroll=SS.3.4.1) | [5](https://saktumiva.org/wiki/wujastyk/susrutasamhita/03-su.sa/provisional-edition_sarirasthana?&upama_scroll=SS.3.5.1) | [6](https://saktumiva.org/wiki/wujastyk/susrutasamhita/03-su.sa/provisional-edition_sarirasthana?&upama_scroll=SS.3.6.1) | [7](https://saktumiva.org/wiki/wujastyk/susrutasamhita/03-su.sa/provisional-edition_sarirasthana?&upama_scroll=SS.3.7.1) | [8](https://saktumiva.org/wiki/wujastyk/susrutasamhita/03-su.sa/provisional-edition_sarirasthana?&upama_scroll=SS.3.8.1) | [9](https://saktumiva.org/wiki/wujastyk/susrutasamhita/03-su.sa/provisional-edition_sarirasthana?&upama_scroll=SS.3.9.1) | [10](https://saktumiva.org/wiki/wujastyk/susrutasamhita/03-su.sa/provisional-edition_sarirasthana?&upama_scroll=SS.3.10.1) |
 
-
-
-## 4 Cikitsāsthāna [adhyāyas 1--20](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-1-20/provisional-edition_cikitsasthana_01-20), [21--40](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40)  
+### 4 Cikitsāsthāna [adhyāyas 1--20](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-1-20/provisional-edition_cikitsasthana_01-20), [21--40](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40)  
 
 Based on witnesses K and H.  
 Witness K is not available for adhyāyas 1-18, 27 and 28.
@@ -72,9 +70,7 @@ Witness K is not available for adhyāyas 1-18, 27 and 28.
 | [21](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40?&upama_scroll=SS.4.21.1) | [22](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40?&upama_scroll=SS.4.22.1) | [23](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40?&upama_scroll=SS.4.23.1) | [24](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40?&upama_scroll=SS.4.22.1) | [25](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40?&upama_scroll=SS.4.25.1) | [26](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40?&upama_scroll=SS.4.26.1) | [27](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40?&upama_scroll=SS.4.27.1) | [28](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40?&upama_scroll=SS.4.28.1) | [29](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40?&upama_scroll=SS.4.29.1) | [30](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40?&upama_scroll=SS.4.30.1) |
 | [31](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40?&upama_scroll=SS.4.31.1) | [32](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40?&upama_scroll=SS.4.32.1) | [33](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40?&upama_scroll=SS.4.33.1) | [34](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40?&upama_scroll=SS.4.34.1) | [35](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40?&upama_scroll=SS.4.35.1) | [36](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40?&upama_scroll=SS.4.36.1) | [37](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40?&upama_scroll=SS.4.37.1) | [38](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40?&upama_scroll=SS.4.38.1) | [39](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40?&upama_scroll=SS.4.39.1) | [40](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40?&upama_scroll=SS.4.40.1) |
 
-
-
-## 5 [Kalpasthāna](https://saktumiva.org/wiki/wujastyk/susrutasamhita/05-su.ka/provisional-edition_kalpasthana) 
+### 5 [Kalpasthāna](https://saktumiva.org/wiki/wujastyk/susrutasamhita/05-su.ka/provisional-edition_kalpasthana) 
 
 Based on witnesses K and H.
 
@@ -84,9 +80,7 @@ Based on witnesses K and H.
 | [❈1](https://saktumiva.org/wiki/wujastyk/susrutasamhita/05-su.ka/provisional-edition_kalpasthana?&upama_scroll=SS.5.1.1) | [❈2](https://saktumiva.org/wiki/wujastyk/susrutasamhita/05-su.ka/provisional-edition_kalpasthana?&upama_scroll=SS.5.2.1) | [❈3](https://saktumiva.org/wiki/wujastyk/susrutasamhita/05-su.ka/provisional-edition_kalpasthana?&upama_scroll=SS.5.3.1) | [❈4](https://saktumiva.org/wiki/wujastyk/susrutasamhita/05-su.ka/provisional-edition_kalpasthana?&upama_scroll=SS.5.4.1) |
 | [❈5](https://saktumiva.org/wiki/wujastyk/susrutasamhita/05-su.ka/provisional-edition_kalpasthana?&upama_scroll=SS.5.5.1) | [❈6](https://saktumiva.org/wiki/wujastyk/susrutasamhita/05-su.ka/provisional-edition_kalpasthana?&upama_scroll=SS.5.7.1) | [❈7](https://saktumiva.org/wiki/wujastyk/susrutasamhita/05-su.ka/provisional-edition_kalpasthana?&upama_scroll=SS.5.6.1) | [❈8](https://saktumiva.org/wiki/wujastyk/susrutasamhita/05-su.ka/provisional-edition_kalpasthana?&upama_scroll=SS.5.8.1) |
 
-
-
-## 6 Uttaratantra  [adhyāyas 1-30](https://saktumiva.org/wiki/wujastyk/susrutasamhita/06-su.ut-01-30/provisional-edition_uttaratantra-1-30), [31-44](https://saktumiva.org/wiki/wujastyk/susrutasamhita/06-su.ut-31-44/provisional-edition_uttaratantra-31-44), [45-66](https://saktumiva.org/wiki/wujastyk/susrutasamhita/06-su.ut-45-66/provisional-edition_uttaratantra-45-66)
+### 6 Uttaratantra  [adhyāyas 1-30](https://saktumiva.org/wiki/wujastyk/susrutasamhita/06-su.ut-01-30/provisional-edition_uttaratantra-1-30), [31-44](https://saktumiva.org/wiki/wujastyk/susrutasamhita/06-su.ut-31-44/provisional-edition_uttaratantra-31-44), [45-66](https://saktumiva.org/wiki/wujastyk/susrutasamhita/06-su.ut-45-66/provisional-edition_uttaratantra-45-66)
 
 Based on witnesses K and H. 
 
