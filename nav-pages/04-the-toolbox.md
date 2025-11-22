@@ -40,7 +40,7 @@ The [*Nyāyacandrikā*](https://www.panditproject.org/entity/108025/work) of Gay
 - Searchable etext of the [Aṣṭāṅgahṛdayasaṃhitā with Aruṇadatta’s commentary](https://vedotpatti.in/samhita/Vag/ehrudayam/?mod=search) at I-AIM (FRLHT);
 - Searchable etext of the [Aṣṭāṅgasaṅgraha with Indu’s commentary](https://vedotpatti.in/samhita/Vag/esangraha/?mod=search) at I-AIM (FRLHT).
 
-  # Transcription, collating, editing
+# Transcription, collating, editing
 
 The following are the main sources that have informed our theoretical stance towards the tasks of this project.
 
@@ -65,7 +65,7 @@ The following are the main sources that have informed our theoretical stance tow
 - [DHARMA Encoding Guide for Diplomatic Editions](https://halshs.archives-ouvertes.fr/halshs-02888186/document) by Dániel Balogh and Arlo Griﬀiths.   
   Covers some of the same ground as the SARIT Encoding Guidelines above. Extremely detailed and aimed more at epigraphical sources than manuscripts.
 
-  # Palaeography
+# Palaeography
 
 The following directly-accessible resources supplement the better-known print materials by [Bühler](http://n2t.net/ark:/13960/t7wn0wg0c), [Dani](http:/n2t.net/ark:/13960/t1fk0q34x) and others.
 
@@ -95,7 +95,7 @@ The following directly-accessible resources supplement the better-known print ma
 - [Indoskript](http://www.indoskript.org/), an online a paleographic database of Brahmi and Kharosthi – derived scripts.
 - [Quick Palaeographer](https://github.com/chchch/quick-palaeographer/), by Charles Li, is an aid while learning the palaeography of a new manuscript. This enables one rapidly to build up an indexed and clickable repertoire of letter-forms from a manscrupt image.
 
-  # Tools and Methods
+# Tools and Methods
 
 In selecting a software environment, this project has adopted the [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy). While interesting debates surround this concept, what it means for the Sushruta Project is that we have adopted simple, short, clear, modular, and extensible tools wherever possible, with a predilection for open-access software. Conversely, we have preferred not to use large “workbench” programs or “integrated development environments” (IDE) that aim to create a total work environment for all aspects of editorial work. This policy has enabled us to select best-of-class tools for each of the separate tasks we undertake, from manuscript transcription to collation, communication, document creation, version control, project management and web publication. We are also free from a dependence on a single source of program maintenance. If one of our tools no longer meets our need, we can swap out just that component of the workflow for an alternative. It also allows project members some flexibility in choosing how they wish to work. The downside of this choice is that the working environment has several components, and that someone in the project must maintain a certain level of software expertise to get all the parts to work together and to move data between the different programs. The existence of standards such as Unicode and the TEI are critical in making this work smoothly.
 
@@ -141,7 +141,7 @@ Regarding the style and content of the project documenation, some of the concept
 
 A [number tools and systems](https://sushrutaproject.org/tools-and-projects-not-currently-selected/) have been evaluated but not adopted for the present work-cycles.
 
-  # Plant databases
+# Plant databases
 
 The discussion on “Flora and Fauna of India” at INDOLOGY ([May 2021](https://list.indology.info/pipermail/indology/2021-May/thread.html#54638)) led to the mention of several useful resources for identifying plants in early Indian literature. (It has long been inadequate to cite Monier-Williams.) Some of these resources have been in print for many years, others are more recent. But the links below make the search for identifications somewhat more convenient.
 
