@@ -1,6 +1,6 @@
 # A Critical Edition of the Suśrutasaṃhitā Based on the Earliest Nepalese Manuscripts.  
 
-This is the website for the online edition and manuscript transcriptions created as part of the [Sushruta Project](http://sushrutaproject.org).  Here, you may view the evolving critical editions of several parts of the *Suśrutasaṃhitā*.  You can also read the various manuscript transcriptions individually, or collate and compare them in the manner of a critical edition. 
+This is the online edition and manuscript transcriptions created as part of the [Suśruta Project](http://sushrutaproject.org).  Here, you may view the evolving critical editions of several parts of the *Suśrutasaṃhitā*.  You can also read the various manuscript transcriptions individually, or collate and compare them in the manner of a critical edition. 
 
 The TEI XML transcriptions of manuscripts and editions are stored at a [Github project repository](https://github.com/wujastyk/sushrutaproject).
 
@@ -15,6 +15,7 @@ The tables give links to adhyāyas that have received editorial attention (not a
 * **K** = MS Kathmandu Kaiser Library 699
 * **N** = MS Kathmandu National Archives 1-1079
 * **H** = MS Kathmandu National Archives 5-333
+* **A** = The printed edition of 1938 edited by Y. T. **Ā**cārya.
 
 **Chapters marked with a puṣpikā ❈ have received critical editorial attention and may be considered  completed critical editions.**  
 
@@ -51,7 +52,7 @@ Witness K is not available for most of this adhyāya.
 
 Based on witnesses N, and H.  
 Witness K is not available for this adhyāya.  
-Witness N is not available after 3.2.35.  Witness N ends at this point.
+Witness N ends at 3.2.35 and is not available after that point.
 
 |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
