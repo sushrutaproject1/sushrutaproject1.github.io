@@ -1,5 +1,11 @@
+<div class="row">
+<div class="col-sm mt-3 mt-md-0">
+{% include figure.liquid loading="eager" path="assets/IMG_0152-flower.JPG" %}
+</div>
+<div>
 The Compendium of Suśruta (सुश्रुतसंहिता) is a treatise on classical Indian medicine written in Sanskrit about two thousand years ago. It is one of the foundations of Ayurveda, the traditional medicine of South Asia.
-
+</div>
+</div>
 Today, The Compendium of Suśruta is normally studied through printed editions from the twentieth century that were in turn based on about a dozen ninenteenth-century manuscripts.  These printed editions are full of errors and difficulties.
 
 In January 2007, the Nepal-German Manuscript Cataloguing Project announced the discovery of an ancient palm-leaf manuscript of The Compendium that is reliably datable to 878 CE, MS Kathmandu KL 699. The manuscript is part of the Kathmandu library of Kesar Shamsher Jang Bahadur Rana (1892–1964), a former Prime Minister of Nepal, and has been added by UNESCO to the “Memory of the World” register.
