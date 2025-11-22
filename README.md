@@ -1,6 +1,6 @@
 <div class="row">
 <div class="col-sm mt-3 mt-md-0">
-{% include figure.liquid loading="eager" path="assets/IMG_0152-flower.JPG" %}
+{% include IMG_0152-flower.JPG %}
 </div>
 <div>
 The Compendium of Suśruta (सुश्रुतसंहिता) is a treatise on classical Indian medicine written in Sanskrit about two thousand years ago. It is one of the foundations of Ayurveda, the traditional medicine of South Asia.
