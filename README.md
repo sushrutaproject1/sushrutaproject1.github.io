@@ -1,4 +1,4 @@
-{% include module.html image_path="_includes/IMG_0152-flower.JPG" title="Decoration from MS K." description="Some more text that will appear to the left of the image." %}
+{% include module.html image_path="IMG_0152-flower.JPG" title="Decoration from MS K." description="Some more text that will appear to the left of the image." %}
 
 The Compendium of Suśruta (सुश्रुतसंहिता) is a treatise on classical Indian medicine written in Sanskrit about two thousand years ago. It is one of the foundations of Ayurveda, the traditional medicine of South Asia.
 
