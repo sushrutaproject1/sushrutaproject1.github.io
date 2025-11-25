@@ -140,7 +140,7 @@ Regarding the style and content of the project documenation, some of the concept
 
 ## Tools not currently selected
 
-A [number tools atnd systems](https://sushrutaproject1.github.io/tools-not-selected/) have been evaluated but not adopted for the present work-cycles.
+A [number tools and systems](https://sushrutaproject1.github.io/tools-not-selected/) have been evaluated but not adopted for the present work-cycles.
 
 # Plant databases
 
