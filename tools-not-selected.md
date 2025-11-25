@@ -1,7 +1,5 @@
 ---
 layout: page
-permalink: /tools-not-selected/
-nav: false
 ---
 # Tools and projects not currently selected
 
