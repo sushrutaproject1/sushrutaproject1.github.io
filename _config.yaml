@@ -1,6 +1,6 @@
 remote_theme: "jekyll/minima@1e8a445"
 minima:
-header_pages:
+  header_pages:
     - 01-project-overview.md
     - 02-project-outputs.md
     - 03-participants.md
