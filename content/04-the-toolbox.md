@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The_Toolbox
+title: The Toolbox
 nav-order: 4
 nav: true
 ---

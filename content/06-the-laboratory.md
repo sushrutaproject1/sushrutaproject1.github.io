@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The_Laboratory
+title: The Laboratory
 nav: true
 nav-order: 6
 ---
