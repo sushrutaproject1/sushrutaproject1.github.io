@@ -10,6 +10,8 @@ The editions and manuscript transcriptions can be viewed at the links below.  Li
 
 The tables give links to adhyāyas that have received editorial attention (not always final).
 
+*[Update, 2025-12: The edition is being rebuilt using the new Saktumiva 2.0 software.  The alpha release can be viewed [here](https://wujastyk.github.io/Saktumiva2/).]*
+
 ### Instructions
 
 “New edition” means that the project has released an edition with full apparatus.  At the present time (2022-2025), the editions of most adhyāyas are provisional: work on proof-reading and edition is still ongoing on a daily basis.  These adhyāyas may be considered to be something like “critical collations” or a  provisional or first draft edition.  You will see the edition in the main window, and the variants from the manuscripts (K, N, H) and the printed edition (A) in the critical apparatus on the right. 
