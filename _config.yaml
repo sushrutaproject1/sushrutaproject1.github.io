@@ -11,7 +11,7 @@ minima:
     - 07-training.md
     - 08-blog-posts.md
 #  
-#  hide_site_feed_link: true
+hide_site_feed_link: true
 #  skin: solarized
 
  
