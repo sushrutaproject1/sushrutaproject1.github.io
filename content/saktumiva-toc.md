@@ -3,6 +3,7 @@ layout: page
 author: Dominik Wujastyk
 date: 2026-01-31
 nav: false
+permalink: /toc/
 ---
 
 
