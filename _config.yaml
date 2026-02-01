@@ -5,16 +5,16 @@ plugins:
 - jekyll-remote-theme
 
 # skin: auto
-minima:
-  nav_pages:
-    - 01-project-overview.md
-    - 02-project-outputs.md
-    - 03-participants.md
-    - 04-the-toolbox.md
-    - 05-bibliographies.md
-    - 06-the-laboratory.md
-    - 07-training.md
-    - content/08-blog-posts.md
+# minima:
+#  nav_pages:
+#    - 01-project-overview.md
+#    - 02-project-outputs.md
+#    - 03-participants.md
+#    - 04-the-toolbox.md
+#    - 05-bibliographies.md
+#    - 06-the-laboratory.md
+#    - 07-training.md
+#    - content/08-blog-posts.md
 #  
 hide_site_feed_link: true
 #  skin: solarized
