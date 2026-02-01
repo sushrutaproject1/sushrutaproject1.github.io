@@ -1,7 +1,8 @@
 #theme: minima
 remote_theme: "jekyll/minima@1e8a445"
+skin: auto
 minima:
-  header_pages:
+  nav_pages:
     - 01-project-overview.md
     - 02-project-outputs.md
     - 03-participants.md
@@ -15,3 +16,4 @@ hide_site_feed_link: true
 #  skin: solarized
 
  
+# see https://github.com/jekyll/minima/blob/master/_config.yml for documentation
