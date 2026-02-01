@@ -7,7 +7,7 @@ permalink: /toc/
 ---
 
 
-## A Critical Edition of the Suśrutasaṃhitā Based on the Earliest Nepalese Manuscripts
+
 
 {:toc}
 
