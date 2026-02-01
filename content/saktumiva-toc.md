@@ -3,7 +3,6 @@ layout: page
 author: Dominik Wujastyk
 date: 2026-01-31
 nav: false
-title: Nepalese edition, table of contents
 ---
 
 
