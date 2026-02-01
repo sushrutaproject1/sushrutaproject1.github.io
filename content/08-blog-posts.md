@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog posts
+title: Blog
 nav-order: 8
 nav: true
 ---
