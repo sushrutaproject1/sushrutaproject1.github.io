@@ -9,17 +9,27 @@ nav-order: 2
 
 * Do not remove this line (it will not be displayed)
 {:toc}
+{% include saktumiva-toc.md %}
 
-## Edition, translation, facsimile
+## Draft translation
 
-The Critical Edition of the Nepalese *Suśrutasaṃhitā*, the draft translation, and the diplomatic transcription of MS Kathmandu KL 699 can all be read starting from this page:
+Evolving draft translation of selected adhyāyas (updated weekly):
 
-* [Suśruta Project starting page](https://wujastyk.github.io/sushrutaproject/).
+* [**View PDF**](https://github.com/wujastyk/sushrutaproject/blob/main/translation/incremental_SS_Translation.pdf)   
+  (use the “download raw file” button ![download](https://sushrutaproject.org/wp-content/uploads/2023/12/Screenshot-from-2023-12-11-16-17-56.png) at GitHub to fetch the whole file)      
+
+## Diplomatic transcription of MS Kathmandu Kaiser Library 699
+
+1. [Sūtrasthāna](https://wujastyk.github.io/sushrutaproject/xml/01-su.su/kl_699_sutrasthana.xml).
+2.  [Nidānasthāna](https://wujastyk.github.io/sushrutaproject/xml/02-su.ni/kl_699_nidanasthana.xml).  Missing from KL 699 except for part of the last adhyāya.    
+3.  Śārīrasthāna. Missing from KL 699.
+4.  [Cikitsāsthāna](https://wujastyk.github.io/sushrutaproject/xml/04-su.ci/kl_699_cikitsasthana.xml). Missing from KL 699 up to adhyāya 18. 
+5.  [Kalpasthāna](https://wujastyk.github.io/sushrutaproject/xml/05-su.ka/kl_699_kalpasthana.xml) 
+6.  [Uttaratantra](https://wujastyk.github.io/sushrutaproject/xml/06-su.ut/kl_699_uttaratantra.xml) 
 
 ## Journal and book publications
 
 
-* Brooks, Lisa Allette. 2026. “‘On Leeches’ in a Medical Treatise for Humans: The Nepalese Version of *Suśrutasaṃhitā* 1.13”. *History of Science in South Asia* **14**:1-42. https://doi.org/10.18732/hssa122.
 * Wujastyk, Dominik, Jason Birch, Andrey Klebanov, Madhu Parameswaran, Madhusudan Rimal, Deepro Chakraborty, Harshal Bhatt, Vandana Lele, and Paras Mehta. 2023. *On the Plastic Surgery of the Ears and Nose: The Nepalese Version of the Suśrutasaṃhitā*. Heidelberg: Heidelberg Asian Studies Publishing. [https://doi.org/10.11588/hasp.1203](https://doi.org/10.11588/hasp.1203).
 * Chakraborty, Deepro, Jason Birch, Dominik Wujastyk, Andrey Klebanov, Harshal Bhatt, Madhusudan Rimal, and Vandana Lele. 2021. “The Graphemes Ch and Cch in the Nepalese Script.” Academia Letters, November. [https://doi.org/10.20935/AL3954](https://doi.org/10.20935/AL3954).
 *  Birch, Jason, Dominik Wujastyk, Andrey Klebanov, Madhusudan Rimal, Deepro Chakraborty, Harshal Bhatt, and Vandana Lele. 2021. “Ḍalhaṇa and the Early ‘Nepalese’ Version of the Suśrutasaṃhitā.” Academia Letters, October. [https://doi.org/10.20935/AL3733](https://doi.org/10.20935/AL3733).
