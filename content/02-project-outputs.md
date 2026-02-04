@@ -11,7 +11,7 @@ nav-order: 2
 
 The Critical Edition of the Nepalese *Suśrutasaṃhitā*, the draft translation, and the diplomatic transcription of MS Kathmandu KL 699 can all be read starting from this page:
 
-* [Suśruta Project starting page](https://wujastyk.github.io/sushrutaproject/).
+* [Suśrutasaṃhitā edition](https://wujastyk.github.io/sushrutaproject/).
 
 ## Journal and book publications
 
