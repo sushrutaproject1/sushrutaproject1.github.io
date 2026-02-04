@@ -7,9 +7,6 @@ nav: true
 nav-order: 2
 ---
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## Edition, translation, facsimile
 
 The Critical Edition of the Nepalese *Suśrutasaṃhitā*, the draft translation, and the diplomatic transcription of MS Kathmandu KL 699 can all be read starting from this page:
