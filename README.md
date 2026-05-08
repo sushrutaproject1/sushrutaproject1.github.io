@@ -23,3 +23,7 @@ The original project website, sushrutaproject.org, has been archived at [Archive
 ## Successor project
 
 The SSHRC has generously funded a successor project to The Suśruta Project, called “Mapping a Medical Tradition: The Compendium of Suśruta in Time and Space.” You can connect with the new project at [https://sushrutaproject2.github.io](https://sushrutaproject2.github.io).
+
+### Citation of this web page
+
+Dominik Wujastyk. (2026). sushrutaproject1/sushrutaproject1.github.io: Archived at Zenodo. https://doi.org/10.5281/zenodo.20091033
