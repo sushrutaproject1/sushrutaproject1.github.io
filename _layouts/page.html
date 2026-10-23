@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<section class="page-hero">
+  <div class="wrap article-wrap">
+    <p class="kicker">{{ site.project_label }} · {{ site.project_dates }}</p>
+    <h1>{{ page.title | default: site.description | escape }}</h1>
+  </div>
+</section>
+<article class="wrap article-wrap">
+  <div class="sheet prose">
+    {{ content }}
+  </div>
+</article>

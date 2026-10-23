@@ -1,0 +1,40 @@
+---
+layout: default
+---
+{%- comment -%}
+  Used automatically for the home page (README.md).
+{%- endcomment -%}
+<section class="hero">
+  <div class="wrap hero-inner">
+    <p class="hero-devanagari" lang="sa">सुश्रुतसंहिता</p>
+    <p class="kicker">{{ site.project_label }} · {{ site.project_dates }}</p>
+    <h1>{{ site.description }}</h1>
+  </div>
+</section>
+
+<section class="wrap cards" aria-label="Start here">
+  <a class="card" href="{{ '/project-outputs/' | relative_url }}">
+    <svg class="icon" aria-hidden="true" viewBox="0 0 24 24"><path d="M4 4h10l6 6v10H4z"/><path d="M14 4v6h6"/><path d="M8 14h8M8 17h6"/></svg>
+    <span class="card-title">Project outputs</span>
+    <span class="card-text">Edition, translation, facsimile, books and articles.</span>
+    <span class="more">See the outputs →</span>
+  </a>
+  <a class="card" href="{{ '/participants/' | relative_url }}">
+    <svg class="icon" aria-hidden="true" viewBox="0 0 24 24"><circle cx="9" cy="8" r="3.2"/><path d="M3.5 19c.6-3.2 2.8-5 5.5-5s4.9 1.8 5.5 5"/><circle cx="17" cy="9" r="2.4"/><path d="M15.5 14.2c2.4-.3 4.5 1.2 5 4.3"/></svg>
+    <span class="card-title">Participants</span>
+    <span class="card-text">The investigator, fellows, assistants and collaborators.</span>
+    <span class="more">Meet the team →</span>
+  </a>
+  <a class="card card-dark" href="https://sushrutaproject2.github.io/">
+    <svg class="icon" aria-hidden="true" viewBox="0 0 24 24"><path d="M5 12h14"/><path d="M13 6l6 6-6 6"/></svg>
+    <span class="card-title">Successor project</span>
+    <span class="card-text">Project 2: The Compendium of Suśruta in Time and Space (2025–2029).</span>
+    <span class="more">Go to Project 2 →</span>
+  </a>
+</section>
+
+<article class="wrap article-wrap">
+  <div class="sheet sheet-home prose">
+    {{ content }}
+  </div>
+</article>

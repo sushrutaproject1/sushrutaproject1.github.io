@@ -1,0 +1,31 @@
+{% assign site_root = site.url | append: '/' %}
+{% assign here = page.url | absolute_url %}
+<header class="site-header">
+  <div class="umbrella">
+    <nav class="wrap umbrella-inner" aria-label="Suśruta Project websites">
+      <a class="umbrella-home" href="{{ site.data.navigation[0].url }}"><span lang="sa">सुश्रुत</span> The Suśruta Project</a>
+      <ul>
+        {% for item in site.data.navigation %}{% if item.umbrella %}
+        <li><a href="{{ item.url }}"{% if item.url == site_root %} aria-current="true"{% endif %}>{{ item.title }}</a></li>
+        {% endif %}{% endfor %}
+      </ul>
+    </nav>
+  </div>
+  <nav class="nav wrap" aria-label="{{ site.project_label }}">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <span class="brand-mark" lang="sa" aria-hidden="true">सु</span>
+      <span class="brand-text">
+        <span class="brand-name">{{ site.project_label }}</span>
+        <span class="brand-dates">{{ site.project_dates }}</span>
+      </span>
+    </a>
+    <ul class="nav-links">
+      {% for path in site.header_pages %}
+        {% assign p = site.pages | where: "path", path | first %}
+        {% if p %}
+        <li><a href="{{ p.url | relative_url }}"{% if p.url == page.url %} aria-current="page"{% endif %}>{{ p.title | escape }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </nav>
+</header>

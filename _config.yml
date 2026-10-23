@@ -1,11 +1,18 @@
+title: The Suśruta Project
+project_label: Project 1
+project_dates: 2020–2024 · completed
+description: The Textual and Cultural History of Medicine in South Asia based on Newly-Discovered Manuscript Evidence
+url: https://sushrutaproject1.github.io
+lang: en
+
 plugins:
-  - jekyll-remote-theme
+  - jekyll-seo-tag
   - jekyll-relative-links # converts links to markdown files to their html counterparts
 relative_links:
   enabled: true
   collections: true
-#
-header_pages:
+
+# The project menu (second bar of the header), in this order.
 header_pages:
   - content/01-project-overview.md
   - content/02-project-outputs.md
@@ -15,15 +22,15 @@ header_pages:
   - content/06-the-laboratory.md
   - content/07-training.md
   - content/08-blog-posts.md
-#
+
 kramdown:
   # parse markdown inside block-level HTML tag
   parse_block_html: true
-#  
-hide_site_feed_link: true
-#  skin: solarized
-# 
-# see https://github.com/jekyll/minima/blob/master/_config.yml for documentation
-# theme: minima
-remote_theme: "jekyll/minima@1e8a445"
-# remote_theme: pages-themes/slate@v0.2.0
+
+# The old minima theme is no longer used; the design lives in
+# _layouts/, _includes/ and assets/css/style.scss.
+# remote_theme: "jekyll/minima@1e8a445"
+
+exclude:
+  - LICENSE
+  - _config.yaml.bak
